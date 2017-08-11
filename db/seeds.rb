@@ -5,3 +5,9 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+Student.new(first_name: "Student", last_name: "One")
+Student.new(first_name: "Student", last_name: "Two")
+Student.new(first_name: "Student", last_name: "Three")
+Student.new(first_name: "Student", last_name: "Four")
+Student.new(first_name: "Student", last_name: "Five")
